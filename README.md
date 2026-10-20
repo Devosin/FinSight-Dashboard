@@ -25,3 +25,6 @@ The goal is to provide a comprehensive view of financial performance by tracking
 - DAX (Data Analysis Expressions): KPI calculations, time-based analysis, and year-over-year comparisons.
 - Data Modeling: Relationships between transaction, customer, and geographic data.
 - Excel / CSV: Potential source formats for importing and preparing financial data.
+6. Screenshots / Demos
+Show what the dashboard looks like. Example:
+https://github.com/Devosin/FinSight-Dashboard/blob/main/FinSight%20Dashboard.png
